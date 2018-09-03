@@ -5,3 +5,10 @@ Comment exporter un modèle SW sous matlab
 Comment piloter un moteur avec Matlab
 
 Comment asservir un moteur avec Matlab. 
+
+Comment réaliser un système masse ressort amortisseur avec matlab et avec Python. 
+
+Liaison Matlab - PC
+
+Liaison MAtlab Arduino
+
