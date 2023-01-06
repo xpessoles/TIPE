@@ -45,3 +45,20 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.mat
+*.c
+*.mexw64
+*.tlc
+Segway/DFrobot_QuadMotor_MCC_BO_Mesure/rtwmakecfg.m
+*.dmr
+*.xml
+*.tmw
+*.dep
+*.mk
+*.o
+*.h
+*.bat
+*.eep
+*.hex
+*.slxc
+*.trash
