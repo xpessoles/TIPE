@@ -71,3 +71,5 @@ Segway/DFrobot_QuadMotor_MCC_BO_Mesure/untitled_ert_rtw/tmwinternal/tr
 Segway/DFrobot_QuadMotor_MCC_BO_Mesure/untitled_ert_rtw/modelsources.txt
 Segway/DFrobot_QuadMotor_MCC_BO_Mesure/untitled_ert_rtw/extmode_task_info.m
 Segway/DFrobot_QuadMotor_MCC_BO_Mesure/untitled_ert_rtw/defines.txt
+*.ci
+*.mrs
