@@ -77,3 +77,6 @@ Seminaire-Nos-2022-STI-UPSTI-IGESR-TIPE-E-SERNA.pdf
 *.elf
 Transmotec/untitled_ert_rtw/extmode_task_info.m
 Transmotec/untitled_ert_rtw/xcp/addr_table.json
+*.obj
+*.rsp
+*.rt-win64
